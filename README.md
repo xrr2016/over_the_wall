@@ -12,6 +12,7 @@
 第3步 下载客户端Shadowsocks, Chrome插件SwitchOmega
 ![shadow](./demo/shadowsocks.png)
 
-第4步 启用代理
+第4步 本地Shadowsocks启用代理
+![proxy](./demo/proxy.png)
 
 (待续...)
