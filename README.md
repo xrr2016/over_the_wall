@@ -9,10 +9,14 @@
 ![connect](./demo/xshell.png)
 ![config](./demo/config.png)
 
-第3步 下载客户端Shadowsocks, Chrome插件SwitchOmega
+第3步 下载客户端Shadowsocks, Chrome插件SwitchyOmega
 ![shadow](./demo/shadowsocks.png)
 
 第4步 本地Shadowsocks启用代理
 ![proxy](./demo/proxy.png)
+
+第5步 使用SwitchyOmega开启系统代理, 完成.
+![finish](./demo/finish.png)
+
 
 (待续...)
